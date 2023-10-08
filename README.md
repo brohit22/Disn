@@ -6,6 +6,8 @@ This is a public repository for a Disney+ Hotstar clone, designed to mimic the p
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Preview](#preview)
+- [DemoLink](#link)
 - [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -24,6 +26,11 @@ This project is a clone of Disney+ Hotstar, a popular streaming platform. It is 
 - Watch movies and TV shows
 - Create and manage playlists
 - User-friendly and responsive design
+
+## Preview
+
+## Demo Link 
+Check out the live demo of the Disney+ Hotstar Clone: [Disney+ Hotstar Clone Demo](https://disney-clone-ochre.vercel.app/)
 
 ## Getting Started
 
