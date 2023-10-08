@@ -20,12 +20,11 @@ This project is a clone of Disney+ Hotstar, a popular streaming platform. It is 
 
 ## Features
 
-- User authentication and registration
-- Browse a catalog of movies and TV shows
-- Search for specific content
-- Watch movies and TV shows
-- Create and manage playlists
-- User-friendly and responsive design
+- User authentication and registration ❌
+- Browse a catalog of movies and TV shows ❌
+- Search for specific content  ❌
+- Watch movies and TV shows    ✅
+- User-friendly and responsive design ✅
 
 ## Preview
 ![image](https://github.com/brohit22/Disney-clone/assets/127715071/9cc1d432-9618-43bc-aeba-2e1f4c66605b)
