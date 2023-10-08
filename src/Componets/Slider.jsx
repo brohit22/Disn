@@ -42,23 +42,12 @@ function Slider() {
         ref={elementRef}
       >
         {movieList.map((item) => (
-          <div>
-            <video
-              src={item.video}
-              autoPlay
-              loop
-              playsInline
-              muted
-              className='absolute z-0  top-0 rounded-md 
-            opacity-0 hover:opacity-50'
-            />
-            <img
-              src={IMAGE_BASE_URL + item.backdrop_path}
-              className='min-w-full  md:h-[310px] object-cover
+          <img
+            src={IMAGE_BASE_URL + item.backdrop_path}
+            className='min-w-full  md:h-[310px] object-cover
             object-left-top mr-5 rounded-md hover:border-[4px]
             border-gray-400 transition-all duration-100 ease-in'
-            />
-          </div>
+          />
         ))}
       </div>
     </div>
