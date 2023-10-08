@@ -28,6 +28,8 @@ This project is a clone of Disney+ Hotstar, a popular streaming platform. It is 
 - User-friendly and responsive design
 
 ## Preview
+![Demo-Image-1](src/assets/Demo/1.png)
+![Demo-Image-2](src/assets/Demo/2.png)
 
 ## Demo Link 
 Check out the live demo of the Disney+ Hotstar Clone: [Disney+ Hotstar Clone Demo](https://disney-clone-ochre.vercel.app/)
